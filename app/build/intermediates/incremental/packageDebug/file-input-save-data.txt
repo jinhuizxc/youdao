@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Mar 13 16:12:18 CST 2017
+2.base=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+5.file=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=DEX
+4.base=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.base=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\workspace-studio\\youdao\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.set=ANDROID_RESOURCE
